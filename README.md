@@ -8,7 +8,7 @@ Used to parse montly reports from our security guard.
 
 ## Usage
 
-    security-report-parser /path/to/configuration.yml /path/to/report.xls
+    security-report-parser --config /path/to/configuration.yml /path/to/report.xls
 
 ## Contributing
 
