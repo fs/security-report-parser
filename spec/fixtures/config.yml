@@ -1,0 +1,4 @@
+from: '8:00'
+till: '23:00'
+users:
+  1: John Smith
