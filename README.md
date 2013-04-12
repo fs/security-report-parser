@@ -1,6 +1,6 @@
 # Security Report Parser
 
-Used to parse montly reports from our security guard.
+Used to parse monthly reports from our security guard.
 
 ## Installation
 
