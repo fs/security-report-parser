@@ -11,10 +11,14 @@ module Parser
     end
 
     def event_type
-      return :open if @description.include?('Снятие')
-      return :close if @description.include?('Постановка')
-
-      :unknown
+      case @description
+      when /Снятие/
+        :open
+      when /Постановка/
+        :close
+      else
+        :unknown
+      end
     end
 
     private
