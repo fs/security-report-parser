@@ -18,3 +18,12 @@ Used to parse monthly reports from our security guard.
 4. Commit your changes (`git commit -am 'Add some feature'`)
 5. Push to the branch (`git push origin my-new-feature`)
 6. Create new Pull Request
+
+## Credits
+
+Security Report Parser is maintained by [Timur Vafin](http://github.com/timurvafin).
+It was written by [Flatstack](http://www.flatstack.com) with the help of our
+[contributors](http://github.com/fs/security-report-parser/contributors).
+
+
+[![Flatstack](http://www.flatstack.com/assets/images/logo.png)](http://www.flatstack.com)
